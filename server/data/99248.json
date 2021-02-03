@@ -1,0 +1,362 @@
+[
+    {
+        "id": "39471840",
+        "market": {
+            "id": 1,
+            "name": "Deutsche Boerse Xetra"
+        },
+        "instrument": {
+            "id": "36714349",
+            "isin": "DE000A1EWWW0",
+            "nsin": {
+                "wkn": "A1EWWW",
+                "valor": null
+            },
+            "name": "ADIDAS AG",
+            "shortName": "ADIDAS"
+        },
+        "weight": null
+    },
+    {
+        "id": "220514761",
+        "market": {
+            "id": 34,
+            "name": "Euronext Amsterdam"
+        },
+        "instrument": {
+            "id": "139659426",
+            "isin": "NL0012969182",
+            "nsin": {
+                "wkn": "A2JNF4",
+                "valor": null
+            },
+            "name": "ADYEN NV EUR0.01",
+            "shortName": "ADYEN"
+        },
+        "weight": null
+    },
+    {
+        "id": "195688",
+        "market": {
+            "id": 33,
+            "name": "Euronext Paris"
+        },
+        "instrument": {
+            "id": "85379",
+            "isin": "FR0000120073",
+            "nsin": {
+                "wkn": "850133",
+                "valor": null
+            },
+            "name": "AIR LIQUIDE(L') EUR5.50",
+            "shortName": "AIR LIQUIDE"
+        },
+        "weight": null
+    },
+    {
+        "id": "1549220",
+        "market": {
+            "id": 33,
+            "name": "Euronext Paris"
+        },
+        "instrument": {
+            "id": "98641",
+            "isin": "NL0000235190",
+            "nsin": {
+                "wkn": "938914",
+                "valor": null
+            },
+            "name": "AIRBUS SE EUR1",
+            "shortName": "AIRBUS GROUP NV"
+        },
+        "weight": null
+    },
+    {
+        "id": "1937897",
+        "market": {
+            "id": 1,
+            "name": "Deutsche Boerse Xetra"
+        },
+        "instrument": {
+            "id": "83219",
+            "isin": "DE0008404005",
+            "nsin": {
+                "wkn": "840400",
+                "valor": null
+            },
+            "name": "ALLIANZ SE NPV(REGD)(VINKULIERT)",
+            "shortName": "ALLIANZ"
+        },
+        "weight": null
+    },
+    {
+        "id": "192567",
+        "market": {
+            "id": 176,
+            "name": "BME Continuous Market"
+        },
+        "instrument": {
+            "id": "33758507",
+            "isin": "ES0109067019",
+            "nsin": {
+                "wkn": "A1CXN0",
+                "valor": null
+            },
+            "name": "AMADEUS IT GROUP SA EUR0.01",
+            "shortName": "AMAS IT"
+        },
+        "weight": null
+    },
+    {
+        "id": "172539598",
+        "market": {
+            "id": 35,
+            "name": "Euronext Brussels"
+        },
+        "instrument": {
+            "id": "114370713",
+            "isin": "BE0974293251",
+            "nsin": {
+                "wkn": "A2ASUV",
+                "valor": null
+            },
+            "name": "ANHEUSER-BUSCH INBEV SA/NV NPV",
+            "shortName": "ANHH INBE"
+        },
+        "weight": null
+    },
+    {
+        "id": "63480",
+        "market": {
+            "id": 34,
+            "name": "Euronext Amsterdam"
+        },
+        "instrument": {
+            "id": "55344798",
+            "isin": "NL0010273215",
+            "nsin": {
+                "wkn": "A1J4U4",
+                "valor": null
+            },
+            "name": "ASML HOLDING NV EUR0.09",
+            "shortName": "ASML HOLD"
+        },
+        "weight": null
+    },
+    {
+        "id": "195749",
+        "market": {
+            "id": 33,
+            "name": "Euronext Paris"
+        },
+        "instrument": {
+            "id": "85846",
+            "isin": "FR0000120628",
+            "nsin": {
+                "wkn": "855705",
+                "valor": null
+            },
+            "name": "AXA EUR2.29",
+            "shortName": "AXA"
+        },
+        "weight": null
+    },
+    {
+        "id": "8407797",
+        "market": {
+            "id": 176,
+            "name": "BME Continuous Market"
+        },
+        "instrument": {
+            "id": "86112",
+            "isin": "ES0113900J37",
+            "nsin": {
+                "wkn": "858872",
+                "valor": null
+            },
+            "name": "BANCO SANTANDER SA EUR0.50(REGD)",
+            "shortName": "BANCO SANTANDER CENTRAL HISP"
+        },
+        "weight": null
+    },
+    {
+        "id": "37886885",
+        "market": {
+            "id": 1,
+            "name": "Deutsche Boerse Xetra"
+        },
+        "instrument": {
+            "id": "34694526",
+            "isin": "DE000BASF111",
+            "nsin": {
+                "wkn": "BASF11",
+                "valor": null
+            },
+            "name": "BASF SE ORD SHS",
+            "shortName": "BASF"
+        },
+        "weight": null
+    },
+    {
+        "id": "30820934",
+        "market": {
+            "id": 1,
+            "name": "Deutsche Boerse Xetra"
+        },
+        "instrument": {
+            "id": "25272187",
+            "isin": "DE000BAY0017",
+            "nsin": {
+                "wkn": "BAY001",
+                "valor": null
+            },
+            "name": "BAYER AG NPV (REGD)",
+            "shortName": "BAYER"
+        },
+        "weight": null
+    },
+    {
+        "id": "143094",
+        "market": {
+            "id": 1,
+            "name": "Deutsche Boerse Xetra"
+        },
+        "instrument": {
+            "id": "81490",
+            "isin": "DE0005190003",
+            "nsin": {
+                "wkn": "519000",
+                "valor": null
+            },
+            "name": "BAYERISCHE MOTOREN WERKE AG EUR1",
+            "shortName": "BMW"
+        },
+        "weight": null
+    },
+    {
+        "id": "195935",
+        "market": {
+            "id": 33,
+            "name": "Euronext Paris"
+        },
+        "instrument": {
+            "id": "88701",
+            "isin": "FR0000131104",
+            "nsin": {
+                "wkn": "887771",
+                "valor": null
+            },
+            "name": "BNP PARIBAS EUR2",
+            "shortName": "BNP PARIBAS"
+        },
+        "weight": null
+    },
+    {
+        "id": null,
+        "market": {
+            "id": null,
+            "name": null
+        },
+        "instrument": {
+            "id": "86518",
+            "isin": "IE0001827041",
+            "nsin": {
+                "wkn": "864684",
+                "valor": null
+            },
+            "name": "CRH ORD EUR0.32",
+            "shortName": "CRH"
+        },
+        "weight": null
+    },
+    {
+        "id": "161766",
+        "market": {
+            "id": 1,
+            "name": "Deutsche Boerse Xetra"
+        },
+        "instrument": {
+            "id": "82840",
+            "isin": "DE0007100000",
+            "nsin": {
+                "wkn": "710000",
+                "valor": null
+            },
+            "name": "DAIMLER AG ORD NPV(REGD) (CHF)",
+            "shortName": "DAIMLER CHF"
+        },
+        "weight": null
+    },
+    {
+        "id": "195758",
+        "market": {
+            "id": 33,
+            "name": "Euronext Paris"
+        },
+        "instrument": {
+            "id": "85477",
+            "isin": "FR0000120644",
+            "nsin": {
+                "wkn": "851194",
+                "valor": null
+            },
+            "name": "DANONE EUR0.25",
+            "shortName": "GROUPE DANONE"
+        },
+        "weight": null
+    },
+    {
+        "id": "2036789",
+        "market": {
+            "id": 1,
+            "name": "Deutsche Boerse Xetra"
+        },
+        "instrument": {
+            "id": "3459922",
+            "isin": "DE0005810055",
+            "nsin": {
+                "wkn": "581005",
+                "valor": null
+            },
+            "name": "DEUTSCHE BOERSE AG NPV(REGD)",
+            "shortName": "DEUTSCHE BOERSE"
+        },
+        "weight": null
+    },
+    {
+        "id": "144553",
+        "market": {
+            "id": 1,
+            "name": "Deutsche Boerse Xetra"
+        },
+        "instrument": {
+            "id": "82088",
+            "isin": "DE0005552004",
+            "nsin": {
+                "wkn": "555200",
+                "valor": null
+            },
+            "name": "DEUTSCHE POST AG NPV(REGD)",
+            "shortName": "DEUTSCHE POST"
+        },
+        "weight": null
+    },
+    {
+        "id": "2025437",
+        "market": {
+            "id": 1,
+            "name": "Deutsche Boerse Xetra"
+        },
+        "instrument": {
+            "id": "181029",
+            "isin": "DE0005557508",
+            "nsin": {
+                "wkn": "555750",
+                "valor": null
+            },
+            "name": "DEUTSCHE TELEKOM AG NPV(REGD)",
+            "shortName": "DEUTSCHE TELEKOM"
+        },
+        "weight": null
+    }
+]

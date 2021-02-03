@@ -1,0 +1,362 @@
+[
+    {
+        "id": "147009751",
+        "market": {
+            "id": 34,
+            "name": "Euronext Amsterdam"
+        },
+        "instrument": {
+            "id": "99595257",
+            "isin": "NL0011540547",
+            "nsin": {
+                "wkn": "A143G0",
+                "valor": null
+            },
+            "name": "ABN AMRO BANK N.V. DR EACH REP SHS",
+            "shortName": "ABN AMROADR"
+        },
+        "weight": null
+    },
+    {
+        "id": "220514761",
+        "market": {
+            "id": 34,
+            "name": "Euronext Amsterdam"
+        },
+        "instrument": {
+            "id": "139659426",
+            "isin": "NL0012969182",
+            "nsin": {
+                "wkn": "A2JNF4",
+                "valor": null
+            },
+            "name": "ADYEN NV EUR0.01",
+            "shortName": "ADYEN"
+        },
+        "weight": null
+    },
+    {
+        "id": "14752101",
+        "market": {
+            "id": 34,
+            "name": "Euronext Amsterdam"
+        },
+        "instrument": {
+            "id": "14345423",
+            "isin": "NL0000303709",
+            "nsin": {
+                "wkn": "A0JL2Y",
+                "valor": null
+            },
+            "name": "AEGON NV EUR0.12",
+            "shortName": "AEGON"
+        },
+        "weight": null
+    },
+    {
+        "id": "1934316",
+        "market": {
+            "id": 34,
+            "name": "Euronext Amsterdam"
+        },
+        "instrument": {
+            "id": "91904",
+            "isin": "NL0013267909",
+            "nsin": {
+                "wkn": "A2PB32",
+                "valor": null
+            },
+            "name": "AKZO NOBEL NV EUR0.50(POST REV SPLIT)",
+            "shortName": "AKZO NOBEL"
+        },
+        "weight": null
+    },
+    {
+        "id": "19150056",
+        "market": {
+            "id": 34,
+            "name": "Euronext Amsterdam"
+        },
+        "instrument": {
+            "id": "18465668",
+            "isin": "LU1598757687",
+            "nsin": {
+                "wkn": "A2DRTZ",
+                "valor": null
+            },
+            "name": "ARCELORMITTAL NPV",
+            "shortName": "ARCELORMITTAL"
+        },
+        "weight": null
+    },
+    {
+        "id": "245104",
+        "market": {
+            "id": 34,
+            "name": "Euronext Amsterdam"
+        },
+        "instrument": {
+            "id": "86878",
+            "isin": "NL0000334118",
+            "nsin": {
+                "wkn": "868730",
+                "valor": null
+            },
+            "name": "ASM INTERNATIONAL NV EUR0.04",
+            "shortName": "ASM INTL"
+        },
+        "weight": null
+    },
+    {
+        "id": "63480",
+        "market": {
+            "id": 34,
+            "name": "Euronext Amsterdam"
+        },
+        "instrument": {
+            "id": "55344798",
+            "isin": "NL0010273215",
+            "nsin": {
+                "wkn": "A1J4U4",
+                "valor": null
+            },
+            "name": "ASML HOLDING NV EUR0.09",
+            "shortName": "ASML HOLD"
+        },
+        "weight": null
+    },
+    {
+        "id": "162341705",
+        "market": {
+            "id": 34,
+            "name": "Euronext Amsterdam"
+        },
+        "instrument": {
+            "id": "108746284",
+            "isin": "NL0011872643",
+            "nsin": {
+                "wkn": "A2AKBT",
+                "valor": null
+            },
+            "name": "ASR NEDERLAND NV EUR0.16",
+            "shortName": "ASR NEDE"
+        },
+        "weight": null
+    },
+    {
+        "id": "11778399",
+        "market": {
+            "id": 34,
+            "name": "Euronext Amsterdam"
+        },
+        "instrument": {
+            "id": "12186166",
+            "isin": "BE0003818359",
+            "nsin": {
+                "wkn": "A0EAT9",
+                "valor": null
+            },
+            "name": "GALAPAGOS NV NPV",
+            "shortName": "GALAPAGOS"
+        },
+        "weight": null
+    },
+    {
+        "id": "9664640",
+        "market": {
+            "id": 34,
+            "name": "Euronext Amsterdam"
+        },
+        "instrument": {
+            "id": "10614499",
+            "isin": "NL0000009165",
+            "nsin": {
+                "wkn": "A0CA0G",
+                "valor": null
+            },
+            "name": "HEINEKEN NV EUR1.60",
+            "shortName": "HEINEKEN"
+        },
+        "weight": null
+    },
+    {
+        "id": "104770097",
+        "market": {
+            "id": 34,
+            "name": "Euronext Amsterdam"
+        },
+        "instrument": {
+            "id": "76502726",
+            "isin": "NL0010801007",
+            "nsin": {
+                "wkn": "A116P8",
+                "valor": null
+            },
+            "name": "IMCD NV EUR0.16",
+            "shortName": "IMCD"
+        },
+        "weight": null
+    },
+    {
+        "id": "1968917",
+        "market": {
+            "id": 34,
+            "name": "Euronext Amsterdam"
+        },
+        "instrument": {
+            "id": "87911",
+            "isin": "NL0011821202",
+            "nsin": {
+                "wkn": "A2ANV3",
+                "valor": null
+            },
+            "name": "ING GROEP N.V. EUR0.01",
+            "shortName": "ING GROEP N.V."
+        },
+        "weight": null
+    },
+    {
+        "id": "171869419",
+        "market": {
+            "id": 34,
+            "name": "Euronext Amsterdam"
+        },
+        "instrument": {
+            "id": "113999678",
+            "isin": "NL0012015705",
+            "nsin": {
+                "wkn": "A2ASAC",
+                "valor": null
+            },
+            "name": "JUST EAT TAKEAWAY.COM N.V ORD EUR0.04 (CDI)",
+            "shortName": "JUST EAT"
+        },
+        "weight": null
+    },
+    {
+        "id": "19038495",
+        "market": {
+            "id": 34,
+            "name": "Euronext Amsterdam"
+        },
+        "instrument": {
+            "id": "17668308",
+            "isin": "NL0011794037",
+            "nsin": {
+                "wkn": "A2ANT0",
+                "valor": null
+            },
+            "name": "KONINKLIJKE AHOLD DELHAIZE NV EUR0.01",
+            "shortName": "KONE AHOL"
+        },
+        "weight": null
+    },
+    {
+        "id": "14813273",
+        "market": {
+            "id": 34,
+            "name": "Euronext Amsterdam"
+        },
+        "instrument": {
+            "id": "14332820",
+            "isin": "NL0000009827",
+            "nsin": {
+                "wkn": "A0JLZ7",
+                "valor": null
+            },
+            "name": "KONINKLIJKE DSM NV EUR1.50",
+            "shortName": "DSM NV"
+        },
+        "weight": null
+    },
+    {
+        "id": "1531560",
+        "market": {
+            "id": 34,
+            "name": "Euronext Amsterdam"
+        },
+        "instrument": {
+            "id": "202010",
+            "isin": "NL0000009082",
+            "nsin": {
+                "wkn": "890963",
+                "valor": null
+            },
+            "name": "KONINKLIJKE KPN NV EUR0.04",
+            "shortName": "KONINKLIJKE KPN"
+        },
+        "weight": null
+    },
+    {
+        "id": "1962574",
+        "market": {
+            "id": 34,
+            "name": "Euronext Amsterdam"
+        },
+        "instrument": {
+            "id": "99016",
+            "isin": "NL0000009538",
+            "nsin": {
+                "wkn": "940602",
+                "valor": null
+            },
+            "name": "KONINKLIJKE PHILIPS NV EUR0.20",
+            "shortName": "PHILIPS ELECTRONICS"
+        },
+        "weight": null
+    },
+    {
+        "id": "104902458",
+        "market": {
+            "id": 34,
+            "name": "Euronext Amsterdam"
+        },
+        "instrument": {
+            "id": "75862669",
+            "isin": "NL0010773842",
+            "nsin": {
+                "wkn": "A115DY",
+                "valor": null
+            },
+            "name": "NN GROUP N.V. EUR0.12",
+            "shortName": "NN GROU"
+        },
+        "weight": null
+    },
+    {
+        "id": "267438563",
+        "market": {
+            "id": 34,
+            "name": "Euronext Amsterdam"
+        },
+        "instrument": {
+            "id": "161638529",
+            "isin": "NL0013654783",
+            "nsin": {
+                "wkn": "A2PRDK",
+                "valor": null
+            },
+            "name": "PROSUS N.V. EUR0.05",
+            "shortName": "PROSUS"
+        },
+        "weight": null
+    },
+    {
+        "id": "245225",
+        "market": {
+            "id": 34,
+            "name": "Euronext Amsterdam"
+        },
+        "instrument": {
+            "id": "87801",
+            "isin": "NL0000379121",
+            "nsin": {
+                "wkn": "879309",
+                "valor": null
+            },
+            "name": "RANDSTAD N.V. EUR0.10",
+            "shortName": "RANDSTAD"
+        },
+        "weight": null
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "id": "83327",
+        "isin": "DE0008469008",
+        "nsin": {
+            "wkn": "846900",
+            "valor": null
+        },
+        "name": "DAX Performance-Index",
+        "shortName": "DEUE BOER",
+        "region": {
+            "id": 57,
+            "name": "Germany"
+        },
+        "type": "performance",
+        "numberConstituents": 30,
+        "status": {
+            "code": "none",
+            "identifier": null,
+            "encryptedDetails": null
+        }
+    },
+    {
+        "id": "376327",
+        "isin": "NL0000000107",
+        "nsin": {
+            "wkn": "969241",
+            "valor": null
+        },
+        "name": "AMSTERDAM EXCHANGES INDEX",
+        "shortName": "AEX INDEX AEX",
+        "region": {
+            "id": 181,
+            "name": "Netherlands"
+        },
+        "type": "price",
+        "numberConstituents": 25,
+        "status": {
+            "code": "none",
+            "identifier": null,
+            "encryptedDetails": null
+        }
+    },
+    {
+        "id": "99248",
+        "isin": "EU0009658145",
+        "nsin": {
+            "wkn": "965814",
+            "valor": null
+        },
+        "name": "EURO STOXX 50",
+        "shortName": "EURO STOXX 50",
+        "region": {
+            "id": 71,
+            "name": "European Union"
+        },
+        "type": "price",
+        "numberConstituents": 50,
+        "status": {
+            "code": "none",
+            "identifier": null,
+            "encryptedDetails": null
+        }
+    }
+]

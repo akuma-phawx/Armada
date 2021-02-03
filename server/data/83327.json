@@ -1,0 +1,362 @@
+[
+    {
+        "id": "39471840",
+        "market": {
+            "id": 1,
+            "name": "Deutsche Boerse Xetra"
+        },
+        "instrument": {
+            "id": "36714349",
+            "isin": "DE000A1EWWW0",
+            "nsin": {
+                "wkn": "A1EWWW",
+                "valor": null
+            },
+            "name": "ADIDAS AG",
+            "shortName": "ADIDAS"
+        },
+        "weight": null
+    },
+    {
+        "id": "1937897",
+        "market": {
+            "id": 1,
+            "name": "Deutsche Boerse Xetra"
+        },
+        "instrument": {
+            "id": "83219",
+            "isin": "DE0008404005",
+            "nsin": {
+                "wkn": "840400",
+                "valor": null
+            },
+            "name": "ALLIANZ SE NPV(REGD)(VINKULIERT)",
+            "shortName": "ALLIANZ"
+        },
+        "weight": null
+    },
+    {
+        "id": "37886885",
+        "market": {
+            "id": 1,
+            "name": "Deutsche Boerse Xetra"
+        },
+        "instrument": {
+            "id": "34694526",
+            "isin": "DE000BASF111",
+            "nsin": {
+                "wkn": "BASF11",
+                "valor": null
+            },
+            "name": "BASF SE ORD SHS",
+            "shortName": "BASF"
+        },
+        "weight": null
+    },
+    {
+        "id": "30820934",
+        "market": {
+            "id": 1,
+            "name": "Deutsche Boerse Xetra"
+        },
+        "instrument": {
+            "id": "25272187",
+            "isin": "DE000BAY0017",
+            "nsin": {
+                "wkn": "BAY001",
+                "valor": null
+            },
+            "name": "BAYER AG NPV (REGD)",
+            "shortName": "BAYER"
+        },
+        "weight": null
+    },
+    {
+        "id": "143094",
+        "market": {
+            "id": 1,
+            "name": "Deutsche Boerse Xetra"
+        },
+        "instrument": {
+            "id": "81490",
+            "isin": "DE0005190003",
+            "nsin": {
+                "wkn": "519000",
+                "valor": null
+            },
+            "name": "BAYERISCHE MOTOREN WERKE AG EUR1",
+            "shortName": "BMW"
+        },
+        "weight": null
+    },
+    {
+        "id": "143111",
+        "market": {
+            "id": 1,
+            "name": "Deutsche Boerse Xetra"
+        },
+        "instrument": {
+            "id": "81500",
+            "isin": "DE0005200000",
+            "nsin": {
+                "wkn": "520000",
+                "valor": null
+            },
+            "name": "BEIERSDORF AG NPV(EUR)",
+            "shortName": "BEIERSDORF"
+        },
+        "weight": null
+    },
+    {
+        "id": "144339",
+        "market": {
+            "id": 1,
+            "name": "Deutsche Boerse Xetra"
+        },
+        "instrument": {
+            "id": "81967",
+            "isin": "DE0005439004",
+            "nsin": {
+                "wkn": "543900",
+                "valor": null
+            },
+            "name": "CONTINENTAL AG ORD NPV",
+            "shortName": "CONTINENTAL"
+        },
+        "weight": null
+    },
+    {
+        "id": "143837189",
+        "market": {
+            "id": 1,
+            "name": "Deutsche Boerse Xetra"
+        },
+        "instrument": {
+            "id": "12587335",
+            "isin": "DE0006062144",
+            "nsin": {
+                "wkn": "606214",
+                "valor": null
+            },
+            "name": "COVESTRO AG NPV",
+            "shortName": "COVESTRO"
+        },
+        "weight": null
+    },
+    {
+        "id": "161766",
+        "market": {
+            "id": 1,
+            "name": "Deutsche Boerse Xetra"
+        },
+        "instrument": {
+            "id": "82840",
+            "isin": "DE0007100000",
+            "nsin": {
+                "wkn": "710000",
+                "valor": null
+            },
+            "name": "DAIMLER AG ORD NPV(REGD) (CHF)",
+            "shortName": "DAIMLER CHF"
+        },
+        "weight": null
+    },
+    {
+        "id": "191928436",
+        "market": {
+            "id": 1,
+            "name": "Deutsche Boerse Xetra"
+        },
+        "instrument": {
+            "id": "123834737",
+            "isin": "DE000A2E4K43",
+            "nsin": {
+                "wkn": "A2E4K4",
+                "valor": null
+            },
+            "name": "DELIVERY HERO SE NPV",
+            "shortName": "DELY HERO"
+        },
+        "weight": null
+    },
+    {
+        "id": "142991",
+        "market": {
+            "id": 1,
+            "name": "Deutsche Boerse Xetra"
+        },
+        "instrument": {
+            "id": "81348",
+            "isin": "DE0005140008",
+            "nsin": {
+                "wkn": "514000",
+                "valor": null
+            },
+            "name": "DEUTSCHE BANK AG NPV(REGD)",
+            "shortName": "DT BANK"
+        },
+        "weight": null
+    },
+    {
+        "id": "2036789",
+        "market": {
+            "id": 1,
+            "name": "Deutsche Boerse Xetra"
+        },
+        "instrument": {
+            "id": "3459922",
+            "isin": "DE0005810055",
+            "nsin": {
+                "wkn": "581005",
+                "valor": null
+            },
+            "name": "DEUTSCHE BOERSE AG NPV(REGD)",
+            "shortName": "DEUTSCHE BOERSE"
+        },
+        "weight": null
+    },
+    {
+        "id": "144553",
+        "market": {
+            "id": 1,
+            "name": "Deutsche Boerse Xetra"
+        },
+        "instrument": {
+            "id": "82088",
+            "isin": "DE0005552004",
+            "nsin": {
+                "wkn": "555200",
+                "valor": null
+            },
+            "name": "DEUTSCHE POST AG NPV(REGD)",
+            "shortName": "DEUTSCHE POST"
+        },
+        "weight": null
+    },
+    {
+        "id": "2025437",
+        "market": {
+            "id": 1,
+            "name": "Deutsche Boerse Xetra"
+        },
+        "instrument": {
+            "id": "181029",
+            "isin": "DE0005557508",
+            "nsin": {
+                "wkn": "555750",
+                "valor": null
+            },
+            "name": "DEUTSCHE TELEKOM AG NPV(REGD)",
+            "shortName": "DEUTSCHE TELEKOM"
+        },
+        "weight": null
+    },
+    {
+        "id": "15137415",
+        "market": {
+            "id": 1,
+            "name": "Deutsche Boerse Xetra"
+        },
+        "instrument": {
+            "id": "13806124",
+            "isin": "DE000A0HN5C6",
+            "nsin": {
+                "wkn": "A0HN5C",
+                "valor": null
+            },
+            "name": "DEUTSCHE WOHNEN SE NPV (BR)",
+            "shortName": "DEUE WOHN"
+        },
+        "weight": null
+    },
+    {
+        "id": "24022547",
+        "market": {
+            "id": 1,
+            "name": "Deutsche Boerse Xetra"
+        },
+        "instrument": {
+            "id": "21074892",
+            "isin": "DE000ENAG999",
+            "nsin": {
+                "wkn": "ENAG99",
+                "valor": null
+            },
+            "name": "E.ON SE NPV",
+            "shortName": "E.ON"
+        },
+        "weight": null
+    },
+    {
+        "id": "150288",
+        "market": {
+            "id": 1,
+            "name": "Deutsche Boerse Xetra"
+        },
+        "instrument": {
+            "id": "82237",
+            "isin": "DE0005785802",
+            "nsin": {
+                "wkn": "578580",
+                "valor": null
+            },
+            "name": "FRESENIUS MEDICAL CARE AG & CO KGAA NPV",
+            "shortName": "FRESENIUS MEDICAL CARE"
+        },
+        "weight": null
+    },
+    {
+        "id": "1958612",
+        "market": {
+            "id": 1,
+            "name": "Deutsche Boerse Xetra"
+        },
+        "instrument": {
+            "id": "82235",
+            "isin": "DE0005785604",
+            "nsin": {
+                "wkn": "578560",
+                "valor": null
+            },
+            "name": "FRESENIUS SE&CO KGAA NPV",
+            "shortName": "FRES SE&C"
+        },
+        "weight": null
+    },
+    {
+        "id": "152371",
+        "market": {
+            "id": 1,
+            "name": "Deutsche Boerse Xetra"
+        },
+        "instrument": {
+            "id": "82340",
+            "isin": "DE0006047004",
+            "nsin": {
+                "wkn": "604700",
+                "valor": null
+            },
+            "name": "HEIDELBERGCEMENT AG NPV",
+            "shortName": "HEIDELBERGCEMENT"
+        },
+        "weight": null
+    },
+    {
+        "id": "152378",
+        "market": {
+            "id": 1,
+            "name": "Deutsche Boerse Xetra"
+        },
+        "instrument": {
+            "id": "82344",
+            "isin": "DE0006048432",
+            "nsin": {
+                "wkn": "604843",
+                "valor": null
+            },
+            "name": "HENKEL AG&CO. KGAA NON-VTG PRF NPV",
+            "shortName": "HENKEL KGAA-VORZUG"
+        },
+        "weight": null
+    }
+]
