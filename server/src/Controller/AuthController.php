@@ -27,6 +27,7 @@ class AuthController extends AbstractController
      */
     public function register(Request $request, UserPasswordEncoderInterface $encoder)
     {
+
         $password = $request->get('password');
         $email = $request->get('email');
         $user = new User();

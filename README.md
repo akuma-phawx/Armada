@@ -1,5 +1,17 @@
 # <span style="color:cyan">**Armada | Market Indicies**</span>
 
+<br>
+<br>
+<br>
+
+## **[ Purpose and Technologies ]**
+
+---
+
+Main purpose of this web app is to offer its users the ability to constantly check the prizes in a specific market(depending the id that was selected) so they can estimate the value of their stocks for example.
+
+Vue (with Vuex) has been used for the frontend, PhpSymfony 5 for the backend, with JWT as the authentication tool. The application has many security holes, it has not been customized (e.g. css, responsiveness) and it has a loot of room for improvement, but still it fills its main purpose.
+
 ## <span style="color:gold">**[ BACKEND ]**</span>
 
 Creating new Symfony Project with: <br>
@@ -58,3 +70,30 @@ Then:<br>
 8. Create our MarketController.php `php bin/console make:controller MarketController`
 
 9. Create paths and functionality of our market API.
+
+---
+
+## <span style="color:gold">**[ FRONTEND ]**</span>
+
+Create new Vue Project with `vue create client`, modify selections, include **Router** and **Vuex** - remove **ESLint**, and use **Vue2**.
+<br>
+
+---
+
+<br>
+
+`cd client` to move into our new working directory and `npm i axios` which we gonna use later on for our requests to the server.<br>
+
+---
+
+<br>
+
+Create our Components (Home, Market, MarketDropdown, MarketContent, Login, Register), modify our routes (in file src/router/index.js), install BootstrapVue (import in src/main.js).
+
+<br>
+
+---
+
+<br>
+
+Making our API calls from store.
