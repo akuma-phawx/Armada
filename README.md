@@ -12,6 +12,12 @@ Main purpose of this web app is to offer its users the ability to constantly che
 
 Vue (with Vuex) has been used for the frontend, PhpSymfony 5 for the backend, with JWT as the authentication tool. The application has many security holes, it has not been customized (e.g. css, responsiveness) and it has a loot of room for improvement, but still it fills its main purpose.
 
+To run the app:
+
+1. `cd client` and `npm run serve`
+2. On another terminal `cd server` and `symfony server:start` OR `php -S localhost:8000 -t public`
+3. I personally used MySQL since i had XAMPP already installed. Make sure you have it running!
+
 ## <span style="color:gold">**[ BACKEND ]**</span>
 
 Creating new Symfony Project with: <br>
