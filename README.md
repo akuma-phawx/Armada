@@ -9,7 +9,7 @@
 
 Main purpose of this web app is to offer its users the ability to constantly check the prices in a specific market(depending the id that was selected) so they can estimate the value of their stocks for example.
 
-Vue (with Vuex) has been used for the frontend, PhpSymfony 5 for the backend, with JWT as the authentication tool. The application has many security holes, it has not been customized (e.g. css, responsiveness) and it has a loot of room for improvement, but still it fills its main purpose.
+Vue (with Vuex) has been used for the frontend, PhpSymfony 5 for the backend, with JWT for the authentication tool. The application has many security holes, it has not been customized (e.g. css, responsiveness) and it has a loot of room for improvement, but still it fills its main purpose.
 
 To run the app:
 
