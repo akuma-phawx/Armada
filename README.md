@@ -1,4 +1,4 @@
-# <span style="color:cyan">**Armada | Market Indicies **</span>
+# <span style="color:cyan">**Armada **</span>
 
 <br>
 <br>
